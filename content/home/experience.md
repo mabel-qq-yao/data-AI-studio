@@ -22,20 +22,18 @@ date_format: Jan 2006
 #   Leave `date_end` empty if it's your current employer.
 #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
 experience:
-  - title: Researcher, Consultant， and Content Creator 
+  - title: Researcher, Consultant and Content Creator 
     company: Freelance
-    company_url: 'https://www.ed.ac.uk/'
-    company_logo: University_of_Edinburgh-Logo_2
+    company_url: ''
+    company_logo: ''
     location: remote
     date_start: '2026-06'
     date_end: ''
     description: |2-
         Responsibilities include:
         
-        * Conduct scholarly research with motivation for publication on interesting topics in AI \& Statistics, Machine Learning, and Data Science. 
-        * Collaborate with industrial projects. 
-        * Mentor and coach students in STEM remotely about major and college selection. 
-        * Create professional domain contents on different platforms, including writing reports, coding, etc.
+        * Conduct scholarly research 
+        * Create contents
         
 experience:
   - title: Research Associate
