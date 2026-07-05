@@ -1,6 +1,6 @@
 ---
 # Display name
-title: Mabel Q. YAO 
+title: Mabel Q.Yao
 
 # Is this the primary user of the site?
 superuser: true
