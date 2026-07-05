@@ -21,10 +21,11 @@ date_format: Jan 2006
 #   Required fields are `title`, `company`, and `date_start`.
 #   Leave `date_end` empty if it's your current employer.
 #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
-
 experience:
-  - title: Researcher, Consultant \& Content Creator \\ AI \& Statistics, Statistical Machine Learning, Data Science
+  - title: Researcher, Consultant， and Content Creator 
     company: Freelance
+    company_url: 'https://www.ed.ac.uk/'
+    company_logo: University_of_Edinburgh-Logo_2
     location: remote
     date_start: '2026-06'
     date_end: ''
@@ -36,33 +37,20 @@ experience:
         * Mentor and coach students in STEM remotely about major and college selection. 
         * Create professional domain contents on different platforms, including writing reports, coding, etc.
         
-  - title: Teaching Assistant in Statistics \& Computer Science
-    company: North Dakota State University
-    location: Fargo, U.S.A.
-    date_start: '2019-01'
-    date_end: '2026-05'
+experience:
+  - title: Research Associate
+    company: University of Edinburgh
+    company_url: 'https://www.ed.ac.uk/'
+    company_logo: University_of_Edinburgh-Logo_2
+    location: Edinburgh, Scotland, UK
+    date_start: '2013-01-07'
+    date_end: ''
     description: |2-
-        Responsibilities include: 
+        Responsibilities include:
         
-        * Assisted instruction for 12 Statistics and Computer Science courses by leading weekly review sessions, creating practice problems in Python and Minitab, and answering student questions, which helped raise average grades and increase course completion rates.
-        * Developed clear lecture notes and lab exercises using LaTeX and Microsoft Office Suite, created sample code in Java and Python, provided detailed assignment feedback, and tutored students to boost understanding of statistics and programming, leading to improved class performance. Analyzed student performance data with R (using tidyverse and ggplot2) to identify trends and gaps, then presented findings to faculty, which led to targeted tutoring interventions that improved student pass rates.
-
-  - title: Research Assistant in Data Analysis for Plant Sciences
-    company: North Dakota State University
-    location: Fargo, U.S.A.
-    date_start: '2019-01'
-    date_end: '2023-08'
-    description: |2-
-        Responsibilities include: 
-        
-        * Led design, execution, and analysis of agricultural experiments, using SAS for data analysis and Tableau for visualizations, and presented key findings that improved crop yield predictions to stakeholders.
-
-  - title: Early Career Engineering Positions
-    company: Shenzhen Yuanlizhu Engineering Consultants Co.,Ltd; 
-    location: SZ, China
-    date_start: '20017-01'
-    date_end: '2018-12'
-    description: Utilized computer-aided engineering (CAE) tools to conduct structural design and improved structural performance, accuracy, and project efficiency; Collaborated with clients, investors, contractors, and multidisciplinary design teams to optimize structural solutions, streamline project execution, and support successful project delivery within technical and business requirements.
+        * Modelling & Simulation
+        * Experimental analysis and Calibration
+        * Data Analysis
 
 design:
   columns: '2'
