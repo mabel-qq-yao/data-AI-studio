@@ -22,8 +22,6 @@ date_format: Jan 2006
 #   Leave `date_end` empty if it's your current employer.
 #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
 
-
-
 experience:
   - title: Researcher, Consultant \& Content Creator \\ AI \& Statistics, Statistical Machine Learning, Data Science
     company: Freelance
@@ -38,7 +36,6 @@ experience:
         * Mentor and coach students in STEM remotely about major and college selection. 
         * Create professional domain contents on different platforms, including writing reports, coding, etc.
         
-        
   - title: Teaching Assistant in Statistics \& Computer Science
     company: North Dakota State University
     location: Fargo, U.S.A.
@@ -49,7 +46,6 @@ experience:
         
         * Assisted instruction for 12 Statistics and Computer Science courses by leading weekly review sessions, creating practice problems in Python and Minitab, and answering student questions, which helped raise average grades and increase course completion rates.
         * Developed clear lecture notes and lab exercises using LaTeX and Microsoft Office Suite, created sample code in Java and Python, provided detailed assignment feedback, and tutored students to boost understanding of statistics and programming, leading to improved class performance. Analyzed student performance data with R (using tidyverse and ggplot2) to identify trends and gaps, then presented findings to faculty, which led to targeted tutoring interventions that improved student pass rates.
-
 
   - title: Research Assistant in Data Analysis for Plant Sciences
     company: North Dakota State University

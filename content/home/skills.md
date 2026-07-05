@@ -19,24 +19,24 @@ feature:
 - description: 90%
   icon: icons8-solidworks-flow-simulation
   icon_pack: "custom"
-  name: Numerical Simulations
+  name: Data Science
   
 - description: 90%
   icon: python
   icon_pack: fab
   name: Python
 
-- description: 75%
+- description: 90%
   icon: icons8-matlab
   icon_pack: "custom"
-  name: MATLAB
+  name: Machine Learning
 
-- description: 80%
+- description: 90%
   icon: chart-line
   icon_pack: fas
   name: Statistics
 
-- description: 10%
+- description: 60%
   icon: r-project
   icon_pack: fab
   name: R
