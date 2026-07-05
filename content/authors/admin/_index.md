@@ -1,12 +1,12 @@
 ---
 # Display name
-title: John P. Morrissey
+title: Mabel Q. YAO 
 
 # Is this the primary user of the site?
 superuser: true
 
 # Role/position/tagline
-role: Research Scientist in Granular Mechanics
+role: Applied Data Scientist | Researcher in AI & Statistics, Statistical ML
 
 # Organizations/Affiliations to show in About widget
 organizations:
@@ -14,27 +14,31 @@ organizations:
   url: https://www.eng.ed.ac.uk/
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include particulate mechanics, the Discrete Element Method (DEM) and other numerical simulation tools. I'm also interested in all things data and how to extract meaningful information from it.
+bio: My research interests include ... 
 
 # Interests to show in About widget
 interests:
-- Mechanics of Particulate Solids
-- Computational Methods
-- Numerical Simulation
-- Data Analytics
+- AI \& Statistics, Machine Learning, Data Science.
+- Network / Graph Data Analysis. 
+- Applications to solve real world problems.
 
 # Education to show in About widget
 education:
   courses:
-  - course: Ph.D. in Civil Engineering
-    institution: University of Edinburgh
+  - course: Ph.D. in Statistics
+    institution: North Dakota State University, U.S.A.
+    year: 2026
+  - course: M.S. in Computer Science
+    institution: North Dakota State University, U.S.A.
+    year: 2022
+  - course: M.Eng. in Structural Engineering
+    institution: Tohoku University, Japan
+    year: 2016
+  - course: B.Eng. in Civil Engineering and Software Engineering
+    institution: Dalian Jiaotong University, China
     year: 2013
-  - course: M.Eng. in Civil Engineering
-    institution: University of Edinburgh
-    year: 2009
-  - course: B.Eng. (Ord.) in Civil Engineering
-    institution: Cork Institute of Technology
-    year: 2006
+    
+
 
 # Social/Academic Networking
 # For available icons, see: https://wowchemy.com/docs/getting-started/page-builder/#icons
@@ -46,22 +50,26 @@ social:
   link: '/#contact'
 - icon: twitter
   icon_pack: fab
-  link: https://twitter.com/jp_morr
+  link: https://x.com/zibuyu34788319
 - icon: github
   icon_pack: fab
-  link: https://github.com/jpmorr
+  link: https://github.com/mabel-qq-yao
 - icon: linkedin
   icon_pack: fab
-  link: https://www.linkedin.com/in/jpmorr/
+  link: https://www.linkedin.com/in/mabelqqy/
 - icon: graduation-cap  # Alternatively, use `google-scholar` icon from `ai` icon pack
   icon_pack: fas
-  link: https://scholar.google.com/citations?user=8slL76sAAAAJ&hl=en
+  link: https://scholar.google.com/citations?user=lZZUYZgAAAAJ&hl=en
 - icon: orcid 
   icon_pack: fab
-  link: https://orcid.org/0000-0002-2389-8146
-- icon: researchgate 
+  link: https://orcid.org/0009-0004-6177-252X
+- icon: facebook
   icon_pack: fab
-  link: https://www.researchgate.net/profile/John-Morrissey-2
+  link: https://www.facebook.com/mabelqqy
+- icon: IG
+  icon_pack: fab
+  link: https://www.instagram.com/zibuyu000/
+   
 
 # Link to a PDF of your resume/CV.
 # To use: copy your resume to `static/uploads/resume.pdf`, enable `ai` icons in `params.toml`, 
@@ -71,19 +79,17 @@ social:
 #   link: uploads/resume.pdf
 
 # Enter email to display Gravatar (if Gravatar enabled in Config)
-email: ""
+email: "mabel.qq.yao@gmail.com"
 
 # Highlight the author in author lists? (true/false)
 highlight_name: true
 ---
 
-J.P. is an experienced research scientist specialising in **particulate mechanics** and the **Discrete Element Method (DEM)**. J.P. completed his Ph.D. at the University of Edinburgh studying in the field of granular mechanics and has over 10 years research experience covering both the experimental and numerical fields.   
+Applied Data Scientist with Ph.D. in Statistics and M.S. in Computer Science, specializing in predictive modeling, machine learning, and statistical inference. 
 
-J.P. was the developer of a novel DEM contact model that captures the behaviour of complex cohesive granular solids. 
-This contact model has been implemented in the commerical DEM code **EDEM** (now *Altair EDEM*) as the **Edinburgh Elasto-Plastic Adhesion Model (EEPA)**.
-J.P. was also heavily involved in the development of the **Edinburgh Powder Tester (EPT)** whose technology was later licenced to Freeman Technologies for use in the Freeman UPT. 
+More than 7 years of combined academic and research experience in Data Science. Experienced in building end-to-end analytical workflows including data cleaning, feature engineering, model validation, and interpretation using Python, R, and SQL. 
 
-Working the the numerical field of *DEM*, *programming*, *data analysis* and *visualisation* are common tasks and *python*, *Julia* and *C++* are often the tools of choice. 
+Applied statistical and machine learning methods to diverse real-world data such as user profile data, time series data, clinical data, multivariate data and so on. Deliver actionable insights and improve outcomes. Find solutions for real-world problems.
 
 
 {{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/Full_CV.pdf" "newtab" >}}resumé{{< /staticref >}}.
