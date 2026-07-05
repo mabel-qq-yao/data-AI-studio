@@ -35,7 +35,6 @@ experience:
         * Conduct scholarly research 
         * Create contents
         
-experience:
   - title: Research Associate
     company: University of Edinburgh
     company_url: 'https://www.ed.ac.uk/'
